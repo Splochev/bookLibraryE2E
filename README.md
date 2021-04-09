@@ -7,3 +7,4 @@ This application can be started by:
 4. Executing the command in the terminal "mocha test.js"
 
 The aim of this application is to show E2E tests using playwright.
+The application's server, html design and css styles come ready from SoftUni Academy.
